@@ -8,5 +8,6 @@ namespace PJT_Olive.Service
 {
     class BOMService
     {
+
     }
 }

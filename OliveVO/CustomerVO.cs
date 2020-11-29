@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OliveVO
 {
-    class CustomerVO
+    public class CustomerVO
     {
+
     }
 }

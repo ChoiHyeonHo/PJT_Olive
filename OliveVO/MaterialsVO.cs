@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OliveVO
 {
-    class MaterialsVO
+    public class MaterialsVO
     {
+
     }
 }
